@@ -86,8 +86,4 @@ Enjoy the game and have fun coding! If you encounter any issues or have any ques
 
 ---
 
-### Note:
-- Replace `"yourusername"` with your actual GitHub username in the repository link.
-- Add screenshots of your game in the `screenshots` folder and update the paths in the README accordingly.
-- Customize the acknowledgements and other sections as per your preference.
 
