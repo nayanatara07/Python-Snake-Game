@@ -4,7 +4,6 @@ import random
 GAME_WIDTH = 700
 GAME_HEIGHT = 700
 SPEED = 50
-
 SPACE_SIZE = 50
 BODY_PARTS = 3
 SNAKE_COLOR = "#00FF00"
@@ -48,7 +47,12 @@ window_height = window.winfo_height()
 screen_width = window.winfo_screenwidth()
 screen_height = window.winfo_screenheight()
 
-X= (screen_width/2) - (window_width/2)
-x= (screen_height/2) - (window_height/2)
+x= int((screen_width/2) - (window_width/2))
+y= int((screen_height/2) - (window_height/2))
+
+window. geometry(f"{window_width}x{window_height}+{x}+{y}")
+
+snake=Snake()
+food=Food()
 
 window.mainloop()
