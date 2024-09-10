@@ -68,6 +68,9 @@ python main.py
 - `game_over()`: Handles the game over state and restarts the game after a delay.
 - `reset_game()`: Resets the game state to start a new game.
 
+![Start Game](image.png)
+![Game Over](image-1.png)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request.
