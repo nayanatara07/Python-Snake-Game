@@ -1,6 +1,8 @@
 # Snake Game
 
-Welcome to the classic Snake Game! This project is implemented using Python's Tkinter library. The objective is to control the snake to eat the food and grow in length while avoiding collisions with the walls or the snake's own body.
+Welcome to the classic Snake Game! 
+This project is implemented using Python's Tkinter library.
+The objective is to control the snake to eat the food and grow in length while avoiding collisions with the walls or the snake's own body.
 
 ## Table of Contents
 
