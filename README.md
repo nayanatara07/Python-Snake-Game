@@ -1,8 +1,6 @@
 # Snake Game
 
-Welcome to the classic Snake Game! 
-This project is implemented using Python's Tkinter library.
-The objective is to control the snake to eat the food and grow in length while avoiding collisions with the walls or the snake's own body.
+Welcome to the classic Snake Game! This project is implemented using Python's Tkinter library.The objective is to control the snake to eat the food and grow in length while avoiding collisions with the walls or the snake's own body.
 
 ## Table of Contents
 
@@ -69,6 +67,9 @@ python main.py
 - `check_collisions(snake)`: Checks if the snake has collided with the walls or itself.
 - `game_over()`: Handles the game over state and restarts the game after a delay.
 - `reset_game()`: Resets the game state to start a new game.
+
+
+## ScreenShots
 
 ![Start Game](image.png)
 ![Game Over](image-1.png)
